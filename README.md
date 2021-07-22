@@ -1,4 +1,4 @@
-<h3><a target="_blank" href="https://htmlpreview.github.io/?https://github.com/MaximeFortinFaubert/Krona_Fungi_2021/blob/main/krona_Fungi_SumsReads.html">GO TO FIGURE 2</a></h3>
+<h3><a target="_blank" href="https://github.com/MaximeFortinFaubert/Figure3/blob/main/krona_Bact_SumsReads.html">GO TO FIGURE 3</a></h3>
 
 <br>Credit: <a href="https://github.com/marbl/Krona/wiki">Krona</a>
 
